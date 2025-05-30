@@ -1,2 +1,3 @@
 # r00t-m3_writeup
-Ceci est mon writeup et memo pour la resolution de mes challenges sur les plateformes de ctf, ceci peut egalement vous aider a monter en competence de votre cote ou, contribuer a la resolutions de vos challenges.
+Ceci est mon write-up et mémo pour la résolution de mes challenges sur des plateformes de CTF.
+Il peut également vous aider à monter en compétences ou à contribuer à la résolution de vos propres challenges.
